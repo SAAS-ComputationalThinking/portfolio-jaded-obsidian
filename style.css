@@ -20,6 +20,8 @@ body {
   h1 {
     font-weight: bold;
     color: antiquewhite;
+    text-decoration: wavy;
+    text-decoration-color: antiquewhite;
   }
 
   h2 {
