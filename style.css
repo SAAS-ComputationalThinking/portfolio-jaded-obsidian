@@ -1,8 +1,8 @@
 body {
-    background: firebrick;
+    background: rgb(78, 19, 24);
   }
   p {
-    color: black;
+    color: rgb(255, 255, 255);
     font-style: italic;
 
   }  
