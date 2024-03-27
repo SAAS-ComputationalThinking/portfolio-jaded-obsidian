@@ -8,11 +8,16 @@ body {
   }  
   h1 {
     font-weight: bold;
-    font-size: 15;
+    font-size: 30;
     color: antiquewhite;
+    align-content: center;
   } 
 
   h1 {
     font-weight: bold;
   }
 
+  ol {
+    font-size: 15;
+    color: antiquewhite;
+  }
