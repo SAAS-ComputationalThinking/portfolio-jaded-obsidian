@@ -1,0 +1,29 @@
+body {
+    background: rgb(168, 77, 83);
+    font-size: 15;
+    color:rgb(235, 219, 220);
+  }
+  p {
+    font-style: italic;
+    font-size: 15;
+    color: antiquewhite;
+
+  }  
+  h1 {
+    font-weight: bold;
+    font-size: 30;
+    color: antiquewhite;
+    align-content: center;
+  } 
+
+  h1 {
+    font-weight: bold;
+    color: antiquewhite;
+    text-decoration: wavy;
+    text-decoration-color: antiquewhite;
+  }
+
+  h2 {
+    font-size: 14;
+    color: antiquewhite;
+  }
